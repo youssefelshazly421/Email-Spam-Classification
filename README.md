@@ -20,3 +20,8 @@ Machine Learning project to classify emails as Spam or Ham using TF-IDF and Logi
 - Accuracy
 - Classification Report
 - Confusion Matrix
+
+
+## 📊 Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
