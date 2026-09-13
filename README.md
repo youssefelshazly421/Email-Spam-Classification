@@ -25,3 +25,18 @@ Machine Learning project to classify emails as Spam or Ham using TF-IDF and Logi
 ## 📊 Confusion Matrix
 
 ![Confusion Matrix](confusion_matrix.png)
+
+
+## 🌐 Web Interface
+
+The project includes a simple web interface that allows users to enter an email and check whether it is Spam or Ham.
+
+![Email Spam Classifier](interface.png)
+
+
+## 🚀 API
+
+The trained model is deployed using FastAPI and can be accessed through an API endpoint.
+
+![FastAPI](fastapi.png)
+
